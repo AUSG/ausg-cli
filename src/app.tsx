@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Box, Newline, Text } from 'ink';
 import Gradient from 'ink-gradient';
 import BigText from 'ink-big-text';
-import peopleData from './peopel.json' assert { type: 'json' };
+import peopleData from './people.json' assert { type: 'json' };
 
 type Props = {
   name: string | undefined;
