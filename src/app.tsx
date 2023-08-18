@@ -84,7 +84,7 @@ export default function App({ name, member }: Props) {
               <Text backgroundColor={'whiteBright'} color={'black'} underline={false}>
                 Homepage
               </Text>
-              <Text underline={true}>https://ausg.me</Text>
+              <Text underline={true}> https://ausg.me</Text>
             </Text>
           </Box>
         </Box>
