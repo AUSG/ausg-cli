@@ -16,6 +16,9 @@ const cli = meow(
 	Examples
 	  $ ausg --name=김태강
 	  AUSG CLI에 오신 것을 환영합니다, 김태강님!
+
+	  $ ausg --member=7th
+	  ... (7기 멤버 목록)
     ...
 `,
   {
